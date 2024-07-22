@@ -8,9 +8,6 @@ I'm a Data Analyst with experience in Machine learning, SQL,  Python, Marketing 
 
 ## ⚡ Skills
 - **Programming Languages:** Python, SQL
-- **Tools & Technologies:** Pandas, NumPy, Scikit-Learn, RNN, LSTM, LLM, RAG, NLP, Regression, Classification, Clustering, Alteryx
+- **Tools & Technologies:** Pandas, NumPy, Scikit-Learn, RNN, LSTM, LLM, RAG, NLP, Generative AI, Regression, Classification, Clustering, Alteryx
 - **Databases:** MS SQL Server
-
-## 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/saurabhfunde)
 
